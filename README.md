@@ -1,4 +1,4 @@
-# Stability-and-maneuverability-of-a-Drone-using-LOQ-and-iLQR
+# Stability-and-maneuverability-of-a-Drone-using-LQR-and-iLQR
 
 ## Overview
 The goal of this project is to control a 2D quadrotor to perform acrobatic moves using LQR and iLQR.
